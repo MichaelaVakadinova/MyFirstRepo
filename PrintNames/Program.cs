@@ -4,14 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Part1
+namespace PrintNames
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("After midnight the clowns aren't funny!");
-
+            Console.WriteLine("Hello Johnny");
         }
     }
 }
